@@ -1,0 +1,11 @@
+# Project exclude paths
+/.gradle/
+/.idea/
+/Topics/
+/Cinema Room REST Service/task/out/
+/Cinema Room REST Service/task/build/
+*.yaml
+*.html
+/gradle/
+/gradlew.bat
+/gradlew
